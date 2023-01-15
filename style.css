@@ -30,7 +30,7 @@ html {
   border: 2px yellow;
   background-color: rgb(70, 68, 68);
   color: rgb(233, 249, 128);
-  display: block;
+  display: circle;
   /* justify-content: center;
     align-items: center; */
   margin: 2px;
